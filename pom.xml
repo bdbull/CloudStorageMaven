@@ -2,14 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gkatzioura.maven.cloud</groupId>
+    <groupId>io.bdbull.maven.cloud</groupId>
     <artifactId>cloud-storage-maven</artifactId>
     <packaging>pom</packaging>
     <version>1.6</version>
 
     <name>Cloud Storage</name>
-    <description>The CloudStorage project enables you to use the storage options of cloud provides (Google Cloud) storage as maven repositories.</description>
-    <url>https://github.com/gkatzioura/CloudStorage</url>
+    <description>The CloudStorage project enables you to use the storage options of cloud providers (Google Cloud) storage as maven repositories.</description>
+    <url>https://github.io.bdbull/CloudStorage</url>
 
     <licenses>
         <license>
@@ -21,17 +21,16 @@
 
     <developers>
         <developer>
-            <name>Emmanouil Gkatziouras</name>
-            <email>emmanouil@gmail.com</email>
-            <organization>egkatzioura</organization>
-            <organizationUrl>https://egkatzioura.com/</organizationUrl>
+            <name>Brian Bull</name>
+            <email>brian@thebdbulls.com</email>
+            <organization>bdbull</organization>
         </developer>
     </developers>
 
     <scm>
-        <url>https://github.com/gkatzioura/CloudStorage</url>
-        <connection>scm:git:https://github.com/gkatzioura/CloudStorage.git</connection>
-        <developerConnection>scm:git:https://github.com/gkatzioura/CloudStorage.git</developerConnection>
+        <url>https://github.io.bdbull/CloudStorage</url>
+        <connection>scm:git:https://github.io.bdbull/CloudStorage.git</connection>
+        <developerConnection>scm:git:https://github.io.bdbull/CloudStorage.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
