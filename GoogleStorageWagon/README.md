@@ -6,9 +6,9 @@ The GoogleStorageWagon project enables you to upload your artifacts to a google 
 <build>
     <extensions>
         <extension>
-            <groupId>com.gkatzioura.maven.cloud</groupId>
+            <groupId>io.github.bdbull.maven.cloud</groupId>
             <artifactId>google-storage-wagon</artifactId>
-            <version>1.2</version>
+            <version>1.6</version>
         </extension>
     </extensions>
 </build>
